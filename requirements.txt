@@ -1,0 +1,10 @@
+streamlit
+numpy
+pandas
+matplotlib
+googletrans==4.0.0rc1
+SpeechRecognition
+tensorflow
+scikit-learn
+gTTS
+pygame
