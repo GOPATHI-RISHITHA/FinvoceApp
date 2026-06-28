@@ -4,7 +4,7 @@ pandas
 matplotlib
 googletrans==4.0.0rc1
 SpeechRecognition
-tensorflow
+tensorflow==2.17.1
 scikit-learn
 gTTS
 pygame
